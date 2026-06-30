@@ -1,0 +1,26 @@
+canonical_identifier: bkk:krp/KR5a0128/ZTDZ/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 黄帝陰符經集解序餘十一黄帝智窮恍惚思極窈㝠辯天人合變之機演陰陽動植之妙經云知之修鍊謂之聖人所言黄帝得之以登雲天信其明矣黄帝闡弘道義務欲救人或恐後來昧於修習乃簡集其要三百餘言洞啓眞源傳示於世賢人秘隱寔曰仙經世人相承俱謂兵法此經文少而義博詞近而理深先儒數賢並精注解義終省略使中士或存或亡洎乎唐隴西李筌尤加說釋亦不立章疏何以光暢玄文驪山母云陰符三百言百言演道百言演法百言演術又曰上有神仙抱一之道中有富國安人之法下有强兵戰勝之術聖母發明三體此乃三章顯然儒流因循然無分析今輒叙三章之要義以爲上中下三卷各述其本因義亦有等威先註略舉其綱宗後疏冀陳其周細非厠前賢之廣達聊申後學之寡文耳
+  hash: sha256:7ea35602947c4d742f32cf179ca89b9386f66338251227ba89d49f3f5df11dd2
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR5a0128_SJB_000-020845c, image: sjb/02/020845c.png}
+metadata:
+  title: 黃帝陰符經集解
+  edition:
+    short: ZTDZ
+    label: 【正統道藏・三家本】
+  date: '2015-08-28 23:38:00.178156'
+  source:
+    repository: kanripo
+    path: KR5a0128/KR5a0128_000.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+hash: sha256:91a818ac05118da300ca06a6db6782a04f1cf0af357506907e5b4a0d5d16a859
